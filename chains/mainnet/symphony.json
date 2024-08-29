@@ -1,0 +1,22 @@
+{
+    "chain_name": "symphony",
+    "registry_name": "symphony",
+    "api": [
+        {"provider": "symphony", "address": "https://symphony-api.kleomedes.network"}
+    ],
+    "rpc": ["https://symphony-rpc.kleomedes.network"
+
+    ],
+    "sdk_version": "0.47.8",
+    "coin_type": "118",
+    "min_tx_fee": "800",
+    "addr_prefix": "symphony",
+    "logo": "https://ping.pub/logos/symphony.png",
+    "assets": [{
+        "base": "note",
+        "symbol": "NGL",
+        "exponent": "6",
+        "coingecko_id": "", 
+        "logo": "https://ping.pub/logos/symphony.png"
+    }]
+}
