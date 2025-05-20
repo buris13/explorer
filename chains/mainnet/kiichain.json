@@ -1,0 +1,23 @@
+{
+    "chain_name": "kiichain-testnet",
+    "registry_name": "kiichain-tesnet",
+    "api": [
+        {"provider": "kiichain", "address": "https://lcd.uno.sentry.testnet.v3.kiivalidator.com"}
+    ],
+    "rpc": ["https://rpc-t.kiichain.nodestake.org"
+
+    ],
+    "sdk_version": "0.47.9",
+    "coin_type": "60",
+    "min_tx_fee": "800",
+    "addr_prefix": "kii",
+    "logo": "https://raw.githubusercontent.com/buris13/website/refs/heads/main/components/img/project-logo/kiichain.jpg",
+    "assets": [{
+        "base": "akii",
+        "symbol": "KII",
+        "exponent": "18",
+        "coingecko_id": "", 
+        "logo": "https://raw.githubusercontent.com/buris13/website/refs/heads/main/components/img/project-logo/kiichain.jpg"
+    }]
+}
+
