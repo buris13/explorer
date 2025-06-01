@@ -1,0 +1,22 @@
+{
+    "chain_name": "ithaca-1",
+    "registry_name": "odiseo",
+    "api": [
+        {"provider": "dasamuka", "address": "https://daodiseo.t-api.dasamuka.xyz"}
+    ],
+    "rpc": ["https://tesnet-rpc.daodiseo.chaintools.tech"
+
+    ],
+    "sdk_version": "0.47.9",
+    "coin_type": "118",
+    "min_tx_fee": "800",
+    "addr_prefix": "odiseo",
+    "logo": "https://raw.githubusercontent.com/buris13/website/refs/heads/main/components/img/project-logo/odiseo.png",
+    "assets": [{
+        "base": "uodis",
+        "symbol": "ODIS",
+        "exponent": "6",
+        "coingecko_id": "", 
+        "logo": "https://raw.githubusercontent.com/buris13/website/refs/heads/main/components/img/project-logo/odiseo.png"
+    }]
+}
